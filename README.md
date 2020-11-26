@@ -22,7 +22,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
-
+- [Open-Source Introduction to Bash Scripting Ebook/Guide](https://dev.to/bobbyiliev/open-source-introduction-to-bash-scripting-ebook-guide-l95)
+- [[Video] How to install the latest stable MariaDB version on CentOS 8](https://dev.to/bobbyiliev/video-how-to-install-the-latest-stable-mariadb-version-on-centos-8-8mo)
+- [[Video] How to reach docker containers by name instead of IP address?](https://dev.to/bobbyiliev/video-how-to-reach-docker-containers-by-name-instead-of-ip-address-1mmc)
+- [[VIDEO] How to Start Docker Containers Automatically After a Host Reboot?](https://dev.to/bobbyiliev/video-how-to-start-docker-containers-automatically-after-a-host-reboot-1e39)
+- [[VIDEO] How to Host Multiple Docker Containers on a Single Server with Nginx Reverse Proxy?](https://dev.to/bobbyiliev/video-how-to-host-multiple-docker-containers-on-a-single-server-with-nginx-reverse-proxy-1c59)
 <!-- BLOG-POST-LIST:END -->
 
 
