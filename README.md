@@ -16,10 +16,10 @@
 
 <!-- DEVDOJO:START -->
 - [Open-Source Introduction to Bash Scripting Ebook/Guide](https://devdojo.com/bobbyiliev/open-source-introduction-to-bash-scripting-ebook-guide)
+- [How To Display HTML Tags In Blade With Laravel 8](https://devdojo.com/bobbyiliev/how-to-display-html-tags-in-blade-with-laravel-8)
+- [7 Tips on How to Manage Stress as a Developer](https://devdojo.com/bobbyiliev/7-tips-on-how-to-manage-stress-as-a-developer)
+- [How to remove a package from Laravel using composer?](https://devdojo.com/bobbyiliev/how-to-remove-a-package-from-laravel-using-composer)
 - [What is Laravel Breeze and how to get started?](https://devdojo.com/bobbyiliev/what-is-laravel-breeze-and-how-to-get-started)
-- [How to encrypt and decrypt a string in Laravel?](https://devdojo.com/bobbyiliev/how-to-encrypt-and-decrypt-a-string-in-laravel)
-- [How to send Discord notifications with Laravel?](https://devdojo.com/bobbyiliev/how-to-send-discord-notifications-with-laravel)
-- [8 Awesome VS Code Extensions for Laravel Developers](https://devdojo.com/bobbyiliev/8-awesome-vs-code-extensions-for-laravel-developers)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
