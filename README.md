@@ -15,11 +15,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [Getting started with Git](https://devdojo.com/bobbyiliev/getting-started-with-git)
 - [How to check if a record exists with Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-check-if-a-record-exists-with-laravel-eloquent)
 - [Open-Source Introduction to Bash Scripting Ebook/Guide](https://devdojo.com/bobbyiliev/open-source-introduction-to-bash-scripting-ebook-guide)
 - [How To Display HTML Tags In Blade With Laravel 8](https://devdojo.com/bobbyiliev/how-to-display-html-tags-in-blade-with-laravel-8)
 - [7 Tips on How to Manage Stress as a Developer](https://devdojo.com/bobbyiliev/7-tips-on-how-to-manage-stress-as-a-developer)
-- [How to remove a package from Laravel using composer?](https://devdojo.com/bobbyiliev/how-to-remove-a-package-from-laravel-using-composer)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
