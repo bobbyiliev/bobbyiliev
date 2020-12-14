@@ -15,11 +15,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to Add Multiple Where Clauses Using Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-add-multiple-where-clauses-using-laravel-eloquent)
 - [What is Laravel Sail and how to get started?](https://devdojo.com/bobbyiliev/what-is-laravel-sail-and-how-to-get-started)
 - [Why you should become a web developer](https://devdojo.com/bobbyiliev/why-you-should-become-a-web-developer)
 - [How to check “if not null” with Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-check-if-not-null-with-laravel-eloquent)
 - [Getting started with Git](https://devdojo.com/bobbyiliev/getting-started-with-git)
-- [How to check if a record exists with Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-check-if-a-record-exists-with-laravel-eloquent)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
