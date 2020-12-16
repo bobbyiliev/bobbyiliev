@@ -24,11 +24,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [[Video] How to host your static websites for free on the DigitalOcean App platform](https://dev.to/bobbyiliev/video-how-to-host-your-static-websites-for-free-on-the-digitalocean-app-platform-3doh)
 - [Introduction to Bash Scripting - A DO Hackathon Submission](https://dev.to/bobbyiliev/introduction-to-bash-scripting-5571)
 - [[Video] How to copy a Docker image from one server to another without pushing it to a repository first?](https://dev.to/bobbyiliev/video-how-to-copy-a-docker-image-from-one-server-to-another-without-pushing-it-to-a-repository-first-38nk)
 - [Open-Source Introduction to Bash Scripting Ebook/Guide](https://dev.to/bobbyiliev/open-source-introduction-to-bash-scripting-ebook-guide-l95)
 - [[Video] How to install the latest stable MariaDB version on CentOS 8](https://dev.to/bobbyiliev/video-how-to-install-the-latest-stable-mariadb-version-on-centos-8-8mo)
-- [[Video] How to reach docker containers by name instead of IP address?](https://dev.to/bobbyiliev/video-how-to-reach-docker-containers-by-name-instead-of-ip-address-1mmc)
 <!-- BLOG-POST-LIST:END -->
 
 
