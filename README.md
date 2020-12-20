@@ -15,11 +15,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [12 Must Have Browser Extensions for Developers](https://devdojo.com/bobbyiliev/12-must-have-browser-extensions-for-developers)
 - [How to Get the Last Inserted Id Using Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-get-the-last-inserted-id-using-laravel-eloquent)
 - [How to Add Multiple Where Clauses Using Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-add-multiple-where-clauses-using-laravel-eloquent)
 - [What is Laravel Sail and how to get started?](https://devdojo.com/bobbyiliev/what-is-laravel-sail-and-how-to-get-started)
 - [Why you should become a web developer](https://devdojo.com/bobbyiliev/why-you-should-become-a-web-developer)
-- [How to check “if not null” with Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-check-if-not-null-with-laravel-eloquent)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
