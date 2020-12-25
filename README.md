@@ -15,11 +15,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [What I learned during 2020](https://devdojo.com/bobbyiliev/what-i-learned-during-2020)
 - [How to Add a New Column to an Existing Table in a Laravel Migration?](https://devdojo.com/bobbyiliev/how-to-add-a-new-column-to-an-existing-table-in-a-laravel-migration)
 - [12 Must Have Browser Extensions for Developers](https://devdojo.com/bobbyiliev/12-must-have-browser-extensions-for-developers)
 - [How to Get the Last Inserted Id Using Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-get-the-last-inserted-id-using-laravel-eloquent)
 - [How to Add Multiple Where Clauses Using Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-add-multiple-where-clauses-using-laravel-eloquent)
-- [What is Laravel Sail and how to get started?](https://devdojo.com/bobbyiliev/what-is-laravel-sail-and-how-to-get-started)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
