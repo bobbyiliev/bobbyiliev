@@ -15,11 +15,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [11 Nano shortcuts that you should know](https://devdojo.com/bobbyiliev/11-nano-shortcuts-that-you-should-know)
 - [What is the $this keyword and how to use it in PHP](https://devdojo.com/bobbyiliev/what-is-the-this-keyword-and-how-to-use-it-in-php)
 - [How to consume an external API with Laravel and Guzzle](https://devdojo.com/bobbyiliev/how-to-consume-an-external-api-with-laravel-and-guzzle)
 - [What I learned during 2020](https://devdojo.com/bobbyiliev/what-i-learned-during-2020)
 - [How to Add a New Column to an Existing Table in a Laravel Migration?](https://devdojo.com/bobbyiliev/how-to-add-a-new-column-to-an-existing-table-in-a-laravel-migration)
-- [12 Must Have Browser Extensions for Developers](https://devdojo.com/bobbyiliev/12-must-have-browser-extensions-for-developers)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
