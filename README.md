@@ -24,11 +24,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How to change the Docker ps output format?](https://dev.to/bobbyiliev/how-to-change-the-docker-ps-output-format-2j6o)
 - [How to securely login to MySQL without providing password each time](https://dev.to/bobbyiliev/how-to-securely-login-to-mysql-without-providing-password-each-time-4fm7)
 - [[Video] How to proxy your web traffic via your Linux Server without a VPN](https://dev.to/bobbyiliev/video-f8k)
 - [How to write your first Bash script?](https://dev.to/bobbyiliev/how-to-write-your-first-bash-script-5667)
 - [[Video] How to host your static websites for free on the DigitalOcean App platform](https://dev.to/bobbyiliev/video-how-to-host-your-static-websites-for-free-on-the-digitalocean-app-platform-3doh)
-- [Introduction to Bash Scripting - A DO Hackathon Submission](https://dev.to/bobbyiliev/introduction-to-bash-scripting-5571)
 <!-- BLOG-POST-LIST:END -->
 
 
