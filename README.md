@@ -24,11 +24,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [Cool way of sharing your Linux terminal session with named pipe/FIFO](https://dev.to/bobbyiliev/cool-way-of-sharing-your-linux-terminal-session-with-named-pipe-fifo-50m0)
 - [How to change the Docker ps output format?](https://dev.to/bobbyiliev/how-to-change-the-docker-ps-output-format-2j6o)
 - [How to securely login to MySQL without providing password each time](https://dev.to/bobbyiliev/how-to-securely-login-to-mysql-without-providing-password-each-time-4fm7)
 - [[Video] How to proxy your web traffic via your Linux Server without a VPN](https://dev.to/bobbyiliev/video-f8k)
 - [How to write your first Bash script?](https://dev.to/bobbyiliev/how-to-write-your-first-bash-script-5667)
-- [[Video] How to host your static websites for free on the DigitalOcean App platform](https://dev.to/bobbyiliev/video-how-to-host-your-static-websites-for-free-on-the-digitalocean-app-platform-3doh)
 <!-- BLOG-POST-LIST:END -->
 
 
