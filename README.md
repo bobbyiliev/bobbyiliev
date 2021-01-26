@@ -15,11 +15,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [Here is why you should not be too quick at judging people by their GitHub activity stats](https://devdojo.com/bobbyiliev/here-is-why-you-should-not-be-too-quick-at-judging-people-by-their-github-activity-stats)
 - [The best way of Recording and Sharing your Terminal with Asciinema](https://devdojo.com/bobbyiliev/the-best-way-of-recording-and-sharing-your-terminal-with-asciinema)
 - [How to Build a Simple Reviews and Rating System with Livewire and Jetstream?](https://devdojo.com/bobbyiliev/how-to-build-a-simple-reviews-and-rating-system-with-livewire-and-jetstream)
 - [Quick Introduction to PHP OOP Basics Crash Course](https://devdojo.com/bobbyiliev/quick-introduction-to-php-oop-basics-crash-course)
 - [What is Laravel Enlightn and how to use it?](https://devdojo.com/bobbyiliev/what-is-laravel-enlightn-and-how-to-use-it)
-- [How to automatically publish your DevDojo posts to DEV.to?](https://devdojo.com/bobbyiliev/how-to-automatically-publish-your-devdojo-posts-to-devto)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
