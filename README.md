@@ -24,11 +24,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [[Video] Bash Scripting Crash Course + Giveaway ⭐](https://dev.to/bobbyiliev/video-bash-scripting-crash-course-giveaway-15pk)
 - [How To Transfer Files from One Linux Server To Another Using rsync?](https://dev.to/bobbyiliev/how-to-transfer-files-from-one-linux-server-to-another-using-rsync-282h)
 - [Here is why you should not be too quick at judging people by their GitHub activity stats](https://dev.to/bobbyiliev/here-is-why-you-should-not-be-too-quick-at-judging-people-by-their-github-activity-stats-255l)
 - [Cool way of sharing your Linux terminal session with named pipe/FIFO](https://dev.to/bobbyiliev/cool-way-of-sharing-your-linux-terminal-session-with-named-pipe-fifo-50m0)
 - [How to change the Docker ps output format?](https://dev.to/bobbyiliev/how-to-change-the-docker-ps-output-format-2j6o)
-- [How to securely login to MySQL without providing password each time](https://dev.to/bobbyiliev/how-to-securely-login-to-mysql-without-providing-password-each-time-4fm7)
 <!-- BLOG-POST-LIST:END -->
 
 
