@@ -15,11 +15,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to build a blog with Laravel and Wink?](https://devdojo.com/bobbyiliev/how-to-build-a-blog-with-laravel-and-wink)
 - [[Video] Bash Scripting Crash Course + Giveaway ⭐](https://devdojo.com/bobbyiliev/video-bash-scripting-crash-course-giveaway)
 - [How to create an eBook from Markdown using Ibis?](https://devdojo.com/bobbyiliev/how-to-create-an-ebook-from-markdown-using-ibis)
 - [How to squash multiple commits into one with Git?](https://devdojo.com/bobbyiliev/how-to-squash-multiple-commits-into-one-with-git)
 - [Here is why you should not be too quick at judging people by their GitHub activity stats](https://devdojo.com/bobbyiliev/here-is-why-you-should-not-be-too-quick-at-judging-people-by-their-github-activity-stats)
-- [The best way of Recording and Sharing your Terminal with Asciinema](https://devdojo.com/bobbyiliev/the-best-way-of-recording-and-sharing-your-terminal-with-asciinema)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
