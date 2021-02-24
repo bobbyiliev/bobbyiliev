@@ -24,11 +24,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How to add simple search to your Laravel blog/website?](https://dev.to/bobbyiliev/how-to-add-simple-search-to-your-laravel-blog-website-17gc)
 - [DevDojo Weekly Winners Week 3 Feb 2021](https://dev.to/bobbyiliev/devdojo-weekly-winners-week-3-feb-2021-21ik)
 - [Write a Post, Get Paid](https://dev.to/bobbyiliev/write-a-post-get-paid-21b0)
 - [[Video] Bash Scripting Crash Course + Giveaway ⭐](https://dev.to/bobbyiliev/video-bash-scripting-crash-course-giveaway-15pk)
 - [How To Transfer Files from One Linux Server To Another Using rsync?](https://dev.to/bobbyiliev/how-to-transfer-files-from-one-linux-server-to-another-using-rsync-282h)
-- [Here is why you should not be too quick at judging people by their GitHub activity stats](https://dev.to/bobbyiliev/here-is-why-you-should-not-be-too-quick-at-judging-people-by-their-github-activity-stats-255l)
 <!-- BLOG-POST-LIST:END -->
 
 
