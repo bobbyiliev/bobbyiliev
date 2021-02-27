@@ -15,11 +15,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to get the Laravel Query Builder to Output the Raw SQL Query?](https://devdojo.com/bobbyiliev/how-to-get-the-laravel-query-builder-to-output-the-raw-sql-query)
 - [How to Quickly Change the Password for a User in Laravel?](https://devdojo.com/bobbyiliev/how-to-quickly-change-the-password-for-a-user-in-laravel)
 - [Top 18 Git commands that you should know](https://devdojo.com/bobbyiliev/top-18-git-commands-that-you-should-know)
 - [Quick Tips for Writing a Good README File](https://devdojo.com/bobbyiliev/quick-tips-for-writing-a-good-readme-file)
 - [How to build a blog with Laravel and Wink?](https://devdojo.com/bobbyiliev/how-to-build-a-blog-with-laravel-and-wink)
-- [[Video] Bash Scripting Crash Course + Giveaway ⭐](https://devdojo.com/bobbyiliev/video-bash-scripting-crash-course-giveaway)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
