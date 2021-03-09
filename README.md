@@ -24,11 +24,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [DevDojo Weekly Winners Week 1 March 2021](https://dev.to/bobbyiliev/devdojo-weekly-winners-week-1-march-2021-421f)
 - [How to use Forelse loop in Laravel Blade?](https://dev.to/bobbyiliev/how-to-use-forelse-loop-in-laravel-blade-16la)
 - [DevDojo Weekly Winners Week 4 Feb 2021](https://dev.to/bobbyiliev/devdojo-weekly-winners-week-4-feb-2021-4mke)
 - [How to add simple search to your Laravel blog/website?](https://dev.to/bobbyiliev/how-to-add-simple-search-to-your-laravel-blog-website-17gc)
 - [DevDojo Weekly Winners Week 3 Feb 2021](https://dev.to/bobbyiliev/devdojo-weekly-winners-week-3-feb-2021-21ik)
-- [Write a Post, Get Paid](https://dev.to/bobbyiliev/write-a-post-get-paid-21b0)
 <!-- BLOG-POST-LIST:END -->
 
 
