@@ -15,11 +15,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [The 10 Most Popular PHP Frameworks and Their Creators](https://devdojo.com/bobbyiliev/the-10-most-popular-php-frameworks-and-their-creators)
 - [How to Rollback Database Migrations in Laravel?](https://devdojo.com/bobbyiliev/how-to-rollback-database-migrations-in-laravel)
 - [9 Basic Docker Commands with Examples](https://devdojo.com/bobbyiliev/9-basic-docker-commands-with-examples)
 - [5 Project Ideas for Junior Linux System Administrators](https://devdojo.com/bobbyiliev/5-project-ideas-for-junior-linux-system-administrators)
 - [How to get the Laravel Query Builder to Output the Raw SQL Query?](https://devdojo.com/bobbyiliev/how-to-get-the-laravel-query-builder-to-output-the-raw-sql-query)
-- [How to Quickly Change the Password for a User in Laravel?](https://devdojo.com/bobbyiliev/how-to-quickly-change-the-password-for-a-user-in-laravel)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
