@@ -15,11 +15,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [What are signed routes in Laravel and how to use them?](https://devdojo.com/bobbyiliev/what-are-signed-routes-in-laravel-and-how-to-use-them)
 - [How to Create Response Macros in Laravel?](https://devdojo.com/bobbyiliev/how-to-create-response-macros-in-laravel)
 - [Custom Namespaces to Organize Your Controllers](https://devdojo.com/bobbyiliev/custom-namespaces-to-organize-your-controllers)
 - [Open-source Introduction to Git and GitHub eBook 💡](https://devdojo.com/bobbyiliev/open-source-introduction-to-git-and-github-ebook)
 - [The 10 Most Popular PHP Frameworks and Their Creators](https://devdojo.com/bobbyiliev/the-10-most-popular-php-frameworks-and-their-creators)
-- [How to Rollback Database Migrations in Laravel?](https://devdojo.com/bobbyiliev/how-to-rollback-database-migrations-in-laravel)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
