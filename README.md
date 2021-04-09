@@ -24,11 +24,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [What is your Linux distribution of choice and why?](https://dev.to/bobbyiliev/what-is-your-linux-distribution-of-choice-and-why-2ijf)
 - [How to send Discord notifications with Laravel?](https://dev.to/bobbyiliev/how-to-send-discord-notifications-with-laravel-3hik)
 - [DevDojo Weekly Winners Week 1 April 2021](https://dev.to/bobbyiliev/devdojo-weekly-winners-week-1-april-2021-18oh)
 - [Top 18 Git commands that you should know](https://dev.to/bobbyiliev/top-18-git-commands-that-you-should-know-2kf7)
 - [DevDojo Weekly Winners Week 4 March 2021](https://dev.to/bobbyiliev/devdojo-weekly-winners-week-4-march-2021-14mc)
-- [Open-source Introduction to Git and GitHub eBook 💡](https://dev.to/bobbyiliev/open-source-introduction-to-git-and-github-ebook-h22)
 <!-- BLOG-POST-LIST:END -->
 
 
