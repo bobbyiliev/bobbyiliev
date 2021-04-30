@@ -24,11 +24,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How to get a free domain name for your Laravel project?](https://dev.to/bobbyiliev/how-to-get-a-free-domain-name-for-your-laravel-project-2984)
 - [11 Nano shortcuts that you should know](https://dev.to/bobbyiliev/11-nano-shortcuts-that-you-should-know-2od5)
 - [How to create an eBook from Markdown using Ibis?](https://dev.to/bobbyiliev/how-to-create-an-ebook-from-markdown-using-ibis-keg)
 - [10 SaaS Startups Ideas to Build in 2021](https://dev.to/bobbyiliev/10-saas-startups-ideas-to-build-in-2021-2047)
 - [DevDojo Weekly Winners Week 3 April 2021](https://dev.to/bobbyiliev/devdojo-weekly-winners-week-3-april-2021-4ink)
-- [Wave - The Open-source Software as a Service Starter Kit](https://dev.to/bobbyiliev/wave-the-open-source-software-as-a-service-starter-kit-35h7)
 <!-- BLOG-POST-LIST:END -->
 
 
