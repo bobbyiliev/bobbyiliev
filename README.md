@@ -15,11 +15,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to Define Custom ENV Variables in Laravel?](https://devdojo.com/bobbyiliev/how-to-define-custom-env-variables-in-laravel)
 - [Use Composer like a Pro - the Dependency Manager for PHP](https://devdojo.com/bobbyiliev/use-composer-like-a-pro-the-dependency-manager-for-php)
 - [10 SaaS Startups Ideas to Build in 2021](https://devdojo.com/bobbyiliev/10-saas-startups-ideas-to-build-in-2021)
 - [What are signed routes in Laravel and how to use them?](https://devdojo.com/bobbyiliev/what-are-signed-routes-in-laravel-and-how-to-use-them)
 - [How to Create Response Macros in Laravel?](https://devdojo.com/bobbyiliev/how-to-create-response-macros-in-laravel)
-- [Custom Namespaces to Organize Your Controllers](https://devdojo.com/bobbyiliev/custom-namespaces-to-organize-your-controllers)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
