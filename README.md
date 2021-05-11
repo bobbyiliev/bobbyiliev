@@ -24,11 +24,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How To Stop Procrastination As A Developer](https://dev.to/bobbyiliev/how-to-stop-procrastination-as-a-developer-3ebl)
 - [What are some useful resources to learn programming/system administration from?](https://dev.to/bobbyiliev/what-are-some-useful-resources-to-learn-programming-system-administration-from-591o)
 - [My top 3 Useful Hacks for Working from Home](https://dev.to/bobbyiliev/my-top-3-useful-hacks-for-working-from-home-2im8)
 - [How to convert markdown to HTML in Laravel and Voyager?](https://dev.to/bobbyiliev/how-to-convert-markdown-to-html-in-laravel-and-voyager-1g0m)
 - [How to get a free domain name for your Laravel project?](https://dev.to/bobbyiliev/how-to-get-a-free-domain-name-for-your-laravel-project-2984)
-- [11 Nano shortcuts that you should know](https://dev.to/bobbyiliev/11-nano-shortcuts-that-you-should-know-2od5)
 <!-- BLOG-POST-LIST:END -->
 
 
