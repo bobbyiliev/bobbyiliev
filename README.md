@@ -24,11 +24,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [Opensource Introduction to SQL eBook 💡](https://dev.to/bobbyiliev/opensource-introduction-to-sql-ebook-4kf5)
 - [[Video] Introduction to Git and GitHub Crash Course + Giveaway ⭐](https://dev.to/bobbyiliev/video-introduction-to-git-and-github-crash-course-giveaway-3jjh)
 - [How To Stop Procrastination As A Developer](https://dev.to/bobbyiliev/how-to-stop-procrastination-as-a-developer-3ebl)
 - [What are some useful resources to learn programming/system administration from?](https://dev.to/bobbyiliev/what-are-some-useful-resources-to-learn-programming-system-administration-from-591o)
 - [My top 3 Useful Hacks for Working from Home](https://dev.to/bobbyiliev/my-top-3-useful-hacks-for-working-from-home-2im8)
-- [How to convert markdown to HTML in Laravel and Voyager?](https://dev.to/bobbyiliev/how-to-convert-markdown-to-html-in-laravel-and-voyager-1g0m)
 <!-- BLOG-POST-LIST:END -->
 
 
