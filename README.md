@@ -15,11 +15,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [17 Special Characters in the Shell That You Should Know](https://devdojo.com/bobbyiliev/17-special-characters-in-the-shell-that-you-should-know)
 - [Opensource Introduction to SQL eBook 💡](https://devdojo.com/bobbyiliev/opensource-introduction-to-sql-ebook)
 - [Introduction to Git and GitHub Crash Course + Giveaway ⭐](https://devdojo.com/bobbyiliev/video-introduction-to-git-and-github-crash-course-giveaway)
 - [How to fix &#039;Please provide a valid cache path&#039; error in Laravel?](https://devdojo.com/bobbyiliev/how-to-fix-please-provide-a-valid-cache-path-error-in-laravel)
 - [How to Define Custom ENV Variables in Laravel?](https://devdojo.com/bobbyiliev/how-to-define-custom-env-variables-in-laravel)
-- [Use Composer like a Pro - the Dependency Manager for PHP](https://devdojo.com/bobbyiliev/use-composer-like-a-pro-the-dependency-manager-for-php)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
