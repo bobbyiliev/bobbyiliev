@@ -24,11 +24,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [Fun tech quiz questions directly in your terminal](https://dev.to/bobbyiliev/fun-tech-quiz-questions-directly-in-your-terminal-19pk)
 - [What are the top 5 mobile apps that you use every day?](https://dev.to/bobbyiliev/what-are-the-top-5-mobile-apps-that-you-use-every-day-mmj)
 - [Opensource Introduction to SQL eBook 💡](https://dev.to/bobbyiliev/opensource-introduction-to-sql-ebook-4kf5)
 - [[Video] Introduction to Git and GitHub Crash Course + Giveaway ⭐](https://dev.to/bobbyiliev/video-introduction-to-git-and-github-crash-course-giveaway-3jjh)
 - [How To Stop Procrastination As A Developer](https://dev.to/bobbyiliev/how-to-stop-procrastination-as-a-developer-3ebl)
-- [What are some useful resources to learn programming/system administration from?](https://dev.to/bobbyiliev/what-are-some-useful-resources-to-learn-programming-system-administration-from-591o)
 <!-- BLOG-POST-LIST:END -->
 
 
