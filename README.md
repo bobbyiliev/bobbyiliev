@@ -24,11 +24,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [What are signed routes in Laravel and how to use them?](https://dev.to/bobbyiliev/what-are-signed-routes-in-laravel-and-how-to-use-them-4kni)
+- [The 10 Most Popular PHP Frameworks and Their Creators](https://dev.to/bobbyiliev/the-10-most-popular-php-frameworks-and-their-creators-475p)
 - [How to Build a Simple Reviews and Rating System with Livewire and Jetstream?](https://dev.to/bobbyiliev/how-to-build-a-simple-reviews-and-rating-system-with-livewire-and-jetstream-36cj)
 - [Do you have a YouTube channel? If so share it here](https://dev.to/bobbyiliev/do-you-have-a-youtube-channel-if-so-share-it-here-5f82)
 - [Fun tech quiz questions directly in your terminal](https://dev.to/bobbyiliev/fun-tech-quiz-questions-directly-in-your-terminal-19pk)
-- [What are the top 5 mobile apps that you use every day?](https://dev.to/bobbyiliev/what-are-the-top-5-mobile-apps-that-you-use-every-day-mmj)
-- [Opensource Introduction to SQL eBook 💡](https://dev.to/bobbyiliev/opensource-introduction-to-sql-ebook-4kf5)
 <!-- BLOG-POST-LIST:END -->
 
 
