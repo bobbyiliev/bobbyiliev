@@ -15,11 +15,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to fix Laravel Unknown Column &#039;updated_at&#039;?](https://devdojo.com/bobbyiliev/how-to-fix-laravel-unknown-column-updated-at)
 - [How to Select Specific Columns in Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-select-specific-columns-in-laravel-eloquent)
 - [What is a Fork Bomb in Linux and how to stop it?](https://devdojo.com/bobbyiliev/what-is-a-fork-bomb-in-linux-and-how-to-stop-it)
 - [Work with me - a 25 Minutes Pomodoro Video Session](https://devdojo.com/bobbyiliev/work-with-me-a-25-minutes-pomodoro-video-session)
 - [17 Special Characters in the Shell That You Should Know](https://devdojo.com/bobbyiliev/17-special-characters-in-the-shell-that-you-should-know)
-- [Opensource Introduction to SQL eBook 💡](https://devdojo.com/bobbyiliev/opensource-introduction-to-sql-ebook)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
