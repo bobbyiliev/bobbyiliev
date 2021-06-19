@@ -15,11 +15,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to Set a Variable in Laravel Blade Template?](https://devdojo.com/bobbyiliev/how-to-set-a-variable-in-laravel-blade-template)
 - [How to Remove a Migration in Laravel?](https://devdojo.com/bobbyiliev/how-to-remove-a-migration-in-laravel)
 - [How to fix Laravel Unknown Column &#039;updated_at&#039;?](https://devdojo.com/bobbyiliev/how-to-fix-laravel-unknown-column-updated-at)
 - [How to Select Specific Columns in Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-select-specific-columns-in-laravel-eloquent)
 - [What is a Fork Bomb in Linux and how to stop it?](https://devdojo.com/bobbyiliev/what-is-a-fork-bomb-in-linux-and-how-to-stop-it)
-- [Work with me - a 25 Minutes Pomodoro Video Session](https://devdojo.com/bobbyiliev/work-with-me-a-25-minutes-pomodoro-video-session)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
