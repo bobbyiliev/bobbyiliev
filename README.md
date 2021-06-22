@@ -6,7 +6,8 @@
 
 - ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.html`, `.css`, `.blade.php`
 - 🌍&nbsp;&nbsp; I'm mostly active within the **DigitalOcean Community and DevDojo**
-- 📘&nbsp;&nbsp; I wrote the **[Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)** opensource eBook
+- 📖&nbsp;&nbsp; I wrote the **[Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)** opensource eBook
+- 📗&nbsp;&nbsp; I wrote the **[Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)** opensource eBook
 - 🌱&nbsp;&nbsp; Learning all about **Open Source**
 - 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **laravel**, **development**, **devops**
 - ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
