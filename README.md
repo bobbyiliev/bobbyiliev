@@ -17,11 +17,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
-- [Order the Results of all() in Laravel Eloquent](https://devdojo.com/bobbyiliev/order-the-results-of-all-in-laravel-eloquent)
+- [How to Get the Base URL in Laravel?](https://devdojo.com/bobbyiliev/how-to-get-the-base-url-in-laravel)
+- [How to Order the Results of all() in Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-order-the-results-of-all-in-laravel-eloquent)
 - [How to Count and Detect Empty Laravel Eloquent Collections?](https://devdojo.com/bobbyiliev/how-to-count-and-detect-empty-laravel-eloquent-collections)
 - [How to Set a Variable in Laravel Blade Template?](https://devdojo.com/bobbyiliev/how-to-set-a-variable-in-laravel-blade-template)
 - [How to Remove a Migration in Laravel?](https://devdojo.com/bobbyiliev/how-to-remove-a-migration-in-laravel)
-- [How to fix Laravel Unknown Column &#039;updated_at&#039;?](https://devdojo.com/bobbyiliev/how-to-fix-laravel-unknown-column-updated-at)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
