@@ -26,11 +26,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [12 Must Have Browser Extensions for Developers](https://dev.to/bobbyiliev/12-must-have-browser-extensions-for-developers-5lf)
 - [My 7 Tips on How to Manage Stress as a Developer](https://dev.to/bobbyiliev/my-7-tips-on-how-to-manage-stress-as-a-developer-34k9)
 - [What are signed routes in Laravel and how to use them?](https://dev.to/bobbyiliev/what-are-signed-routes-in-laravel-and-how-to-use-them-4kni)
 - [The 10 Most Popular PHP Frameworks and Their Creators](https://dev.to/bobbyiliev/the-10-most-popular-php-frameworks-and-their-creators-475p)
 - [How to Build a Simple Reviews and Rating System with Livewire and Jetstream?](https://dev.to/bobbyiliev/how-to-build-a-simple-reviews-and-rating-system-with-livewire-and-jetstream-36cj)
-- [Do you have a YouTube channel? If so share it here](https://dev.to/bobbyiliev/do-you-have-a-youtube-channel-if-so-share-it-here-5f82)
 <!-- BLOG-POST-LIST:END -->
 
 
