@@ -9,6 +9,7 @@
 - 📖&nbsp;&nbsp; I wrote the **[Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)** opensource eBook
 - 📗&nbsp;&nbsp; I wrote the **[Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)** opensource eBook
 - 📕&nbsp;&nbsp; I wrote the **[Introduction to SQL](https://github.com/bobbyiliev/introduction-to-sql)** opensource eBook
+- 💡&nbsp;&nbsp; I wrote the **[Laravel tips and tricks](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook)** opensource eBook
 - 🌱&nbsp;&nbsp; Learning all about **Open Source**
 - 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **laravel**, **development**, **devops**
 - ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
