@@ -17,11 +17,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [💡 Free Laravel Tips and Tricks eBook](https://devdojo.com/bobbyiliev/free-laravel-tips-and-tricks-ebook)
 - [How to limit the result with Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-limit-the-result-with-laravel-eloquent)
 - [How to get the current date and time in Laravel?](https://devdojo.com/bobbyiliev/how-to-get-the-current-date-and-time-in-laravel)
 - [How to Delete All Entries in a Table Using Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-delete-all-entries-in-a-table-using-laravel-eloquent)
 - [How to Get the Base URL in Laravel?](https://devdojo.com/bobbyiliev/how-to-get-the-base-url-in-laravel)
-- [How to Order the Results of all() in Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-order-the-results-of-all-in-laravel-eloquent)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
