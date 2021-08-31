@@ -32,11 +32,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [MarkdownX Editor 🎉](https://dev.to/bobbyiliev/markdownx-editor-27bg)
 - [💡 Free Laravel Tips and Tricks eBook](https://dev.to/bobbyiliev/free-laravel-tips-and-tricks-ebook-5go2)
 - [A free copy & paste collection of TailwindCSS buttons 🌪](https://dev.to/bobbyiliev/a-free-copy-paste-collection-of-tailwindcss-buttons-53o7)
 - [Custom Namespaces to Organize Your Laravel Controllers](https://dev.to/bobbyiliev/custom-namespaces-to-organize-your-laravel-controllers-28oa)
 - [How to build a blog with Laravel and Wink?](https://dev.to/bobbyiliev/how-to-build-a-blog-with-laravel-and-wink-5co4)
-- [12 Must Have Browser Extensions for Developers](https://dev.to/bobbyiliev/12-must-have-browser-extensions-for-developers-5lf)
 <!-- BLOG-POST-LIST:END -->
 
 
