@@ -23,11 +23,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to keep a process running even after closing SSH connection?](https://devdojo.com/bobbyiliev/how-to-keep-a-process-running-even-after-closing-ssh-connection)
 - [💡 Free Laravel Tips and Tricks eBook](https://devdojo.com/bobbyiliev/free-laravel-tips-and-tricks-ebook)
 - [How to limit the result with Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-limit-the-result-with-laravel-eloquent)
 - [How to get the current date and time in Laravel?](https://devdojo.com/bobbyiliev/how-to-get-the-current-date-and-time-in-laravel)
 - [How to Delete All Entries in a Table Using Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-delete-all-entries-in-a-table-using-laravel-eloquent)
-- [How to Get the Base URL in Laravel?](https://devdojo.com/bobbyiliev/how-to-get-the-base-url-in-laravel)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
