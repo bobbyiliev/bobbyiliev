@@ -32,11 +32,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How to optimize MySQL to speed up your Laravel application with Releem?](https://dev.to/bobbyiliev/how-to-optimize-mysql-to-speed-up-your-laravel-application-with-releem-208e)
 - [MarkdownX Editor 🎉](https://dev.to/bobbyiliev/markdownx-editor-27bg)
 - [💡 Free Laravel Tips and Tricks eBook](https://dev.to/bobbyiliev/free-laravel-tips-and-tricks-ebook-5go2)
 - [A free copy & paste collection of TailwindCSS buttons 🌪](https://dev.to/bobbyiliev/a-free-copy-paste-collection-of-tailwindcss-buttons-53o7)
 - [Custom Namespaces to Organize Your Laravel Controllers](https://dev.to/bobbyiliev/custom-namespaces-to-organize-your-laravel-controllers-28oa)
-- [How to build a blog with Laravel and Wink?](https://dev.to/bobbyiliev/how-to-build-a-blog-with-laravel-and-wink-5co4)
 <!-- BLOG-POST-LIST:END -->
 
 
