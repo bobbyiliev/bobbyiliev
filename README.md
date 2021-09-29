@@ -23,11 +23,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [🚀 The Missing SQL Basics Crash Course](https://devdojo.com/bobbyiliev/the-missing-sql-basics-crash-course)
 - [How to Automatically Run Your Laravel PestPHP Tests on Each GitHub Pull Request?](https://devdojo.com/bobbyiliev/how-to-automatically-run-your-laravel-pestphp-tests-on-each-github-pull-request)
 - [How to optimize MySQL to speed up your Laravel application with Releem?](https://devdojo.com/bobbyiliev/how-to-optimize-mysql-to-speed-up-your-laravel-application-with-releem)
 - [How to keep a process running even after closing SSH connection?](https://devdojo.com/bobbyiliev/how-to-keep-a-process-running-even-after-closing-ssh-connection)
 - [💡 Free Laravel Tips and Tricks eBook](https://devdojo.com/bobbyiliev/free-laravel-tips-and-tricks-ebook)
-- [How to limit the result with Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-limit-the-result-with-laravel-eloquent)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
