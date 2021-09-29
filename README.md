@@ -32,11 +32,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [🚀 The Missing SQL Basics Crash Course](https://dev.to/bobbyiliev/the-missing-sql-basics-crash-course-323l)
 - [How to Automatically Run Your Laravel PestPHP Tests on Each GitHub Pull Request?](https://dev.to/bobbyiliev/how-to-automatically-run-your-laravel-pestphp-tests-on-each-github-pull-request-3jch)
 - [How to optimize MySQL to speed up your Laravel application with Releem?](https://dev.to/bobbyiliev/how-to-optimize-mysql-to-speed-up-your-laravel-application-with-releem-208e)
 - [MarkdownX Editor 🎉](https://dev.to/bobbyiliev/markdownx-editor-27bg)
 - [💡 Free Laravel Tips and Tricks eBook](https://dev.to/bobbyiliev/free-laravel-tips-and-tricks-ebook-5go2)
-- [A free copy & paste collection of TailwindCSS buttons 🌪](https://dev.to/bobbyiliev/a-free-copy-paste-collection-of-tailwindcss-buttons-53o7)
 <!-- BLOG-POST-LIST:END -->
 
 
