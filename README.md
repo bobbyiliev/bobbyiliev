@@ -38,11 +38,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [The Data Engineer Roadmap 🗺](https://dev.to/bobbyiliev/the-data-engineer-roadmap-4o30)
+- [The Only Bash Scripting Cheat Sheet That You Will Ever Need](https://dev.to/bobbyiliev/the-only-bash-scripting-cheat-sheet-that-you-will-ever-need-55c7)
 - [🚀 The Missing Docker Crash Course for Developers](https://dev.to/bobbyiliev/the-missing-docker-crash-course-for-developers-2ccb)
 - [8 Open Source Projects to Contribute to - Hacktoberfest 2021](https://dev.to/bobbyiliev/8-open-source-projects-to-contribute-to-hacktoberfest-2021-3o09)
 - [🚀 The Missing SQL Basics Crash Course](https://dev.to/bobbyiliev/the-missing-sql-basics-crash-course-323l)
-- [How to Automatically Run Your Laravel PestPHP Tests on Each GitHub Pull Request?](https://dev.to/bobbyiliev/how-to-automatically-run-your-laravel-pestphp-tests-on-each-github-pull-request-3jch)
-- [How to optimize MySQL to speed up your Laravel application with Releem?](https://dev.to/bobbyiliev/how-to-optimize-mysql-to-speed-up-your-laravel-application-with-releem-208e)
 <!-- BLOG-POST-LIST:END -->
 
 
