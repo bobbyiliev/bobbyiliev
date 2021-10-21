@@ -1,9 +1,10 @@
-### Hi there 👋
-
-[![Github](https://img.shields.io/github/followers/bobbyiliev?label=Follow&style=social)](https://github.com/bobbyiliev)
+<div align="center">
+  <h1> Hello there <img src="https://github.com/bobbyiliev/bobbyiliev/blob/main/Hi.gif" width="30px"> <br>My name is Bobby Iliev</h1>
+</div>
 
 ---
 
+[![Github](https://img.shields.io/github/followers/bobbyiliev?label=Follow&style=social)](https://github.com/bobbyiliev)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQWmdHTeAO0UvaNqve9udRw?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCQWmdHTeAO0UvaNqve9udRw?sub_confirmation=1) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bobbyiliev_?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=bobbyiliev_) 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCQWmdHTeAO0UvaNqve9udRw?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/channel/UCQWmdHTeAO0UvaNqve9udRw?sub_confirmation=1)
@@ -45,6 +46,11 @@
 - [🚀 The Missing SQL Basics Crash Course](https://dev.to/bobbyiliev/the-missing-sql-basics-crash-course-323l)
 <!-- BLOG-POST-LIST:END -->
 
+<div align="center">
+  
+![Bobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobbyiliev&show_icons=true&theme=radical)
+
+</div>
 
 <p align="center">
 <br><br>
