@@ -30,11 +30,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [💡 Free Introduction to Docker eBook](https://devdojo.com/bobbyiliev/free-introduction-to-docker-ebook)
 - [Automatically display your latest posts on your GitHub Profile README](https://devdojo.com/bobbyiliev/automatically-display-your-latest-posts-on-your-github-profile-readme)
 - [The Data Engineer Roadmap 🗺](https://devdojo.com/bobbyiliev/the-data-engineer-roadmap)
 - [The Only Bash Scripting Cheat Sheet That You Will Ever Need](https://devdojo.com/bobbyiliev/the-only-bash-scripting-cheat-sheet-that-you-will-ever-need)
 - [🚀 The Missing Docker Crash Course for Developers](https://devdojo.com/bobbyiliev/the-missing-docker-crash-course-for-developers)
-- [8 Open Source Projects to Contribute to - Hacktoberfest 2021](https://devdojo.com/bobbyiliev/8-open-source-projects-to-contribute-to-hacktoberfest-2021)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
