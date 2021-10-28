@@ -39,11 +39,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [💡 Free Introduction to Docker eBook](https://dev.to/bobbyiliev/free-introduction-to-docker-ebook-50m8)
 - [[VIDEO] How to Deploy a Node.js App on Ubuntu with PM2, NGINX and Cloudflare](https://dev.to/bobbyiliev/video-how-to-deploy-a-nodejs-app-on-ubuntu-with-pm2-nginx-and-cloudflare-5dh)
 - [The Data Engineer Roadmap 🗺](https://dev.to/bobbyiliev/the-data-engineer-roadmap-4o30)
 - [The Only Bash Scripting Cheat Sheet That You Will Ever Need](https://dev.to/bobbyiliev/the-only-bash-scripting-cheat-sheet-that-you-will-ever-need-55c7)
 - [🚀 The Missing Docker Crash Course for Developers](https://dev.to/bobbyiliev/the-missing-docker-crash-course-for-developers-2ccb)
-- [8 Open Source Projects to Contribute to - Hacktoberfest 2021](https://dev.to/bobbyiliev/8-open-source-projects-to-contribute-to-hacktoberfest-2021-3o09)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
