@@ -39,11 +39,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How to Add a Default Value to an Existing Column in MySQL](https://dev.to/bobbyiliev/how-to-add-a-default-value-to-an-existing-column-in-mysql-28dk)
+- [The top 10 Linux Commands that Every Data Engineer Should Know](https://dev.to/bobbyiliev/the-top-10-linux-commands-that-every-data-engineer-should-know-mbg)
 - [Automatically display your latest posts on your GitHub Profile README](https://dev.to/bobbyiliev/automatically-display-your-latest-posts-on-your-github-profile-readme-119f)
 - [💡 Free Introduction to Docker eBook](https://dev.to/bobbyiliev/free-introduction-to-docker-ebook-50m8)
 - [[VIDEO] How to Deploy a Node.js App on Ubuntu with PM2, NGINX and Cloudflare](https://dev.to/bobbyiliev/video-how-to-deploy-a-nodejs-app-on-ubuntu-with-pm2-nginx-and-cloudflare-5dh)
-- [The Data Engineer Roadmap 🗺](https://dev.to/bobbyiliev/the-data-engineer-roadmap-4o30)
-- [The Only Bash Scripting Cheat Sheet That You Will Ever Need](https://dev.to/bobbyiliev/the-only-bash-scripting-cheat-sheet-that-you-will-ever-need-55c7)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
