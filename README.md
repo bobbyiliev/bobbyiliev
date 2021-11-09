@@ -30,11 +30,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to Add a Default Value to an Existing Column in MySQL](https://devdojo.com/bobbyiliev/how-to-add-a-default-value-to-an-existing-column-in-mysql)
 - [The top 10 Linux Commands that Every Data Engineer Should Know](https://devdojo.com/bobbyiliev/the-top-10-linux-commands-that-every-data-engineer-should-know)
 - [💡 Free Introduction to Docker eBook](https://devdojo.com/bobbyiliev/free-introduction-to-docker-ebook)
 - [Automatically display your latest posts on your GitHub Profile README](https://devdojo.com/bobbyiliev/automatically-display-your-latest-posts-on-your-github-profile-readme)
 - [The Data Engineer Roadmap 🗺](https://devdojo.com/bobbyiliev/the-data-engineer-roadmap)
-- [The Only Bash Scripting Cheat Sheet That You Will Ever Need](https://devdojo.com/bobbyiliev/the-only-bash-scripting-cheat-sheet-that-you-will-ever-need)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
