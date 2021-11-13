@@ -39,11 +39,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [Learn Materialize by running streaming SQL on your nginx logs](https://dev.to/bobbyiliev/learn-materialize-by-running-streaming-sql-on-your-nginx-logs-3n32)
 - [What is the difference between JOIN and INNER JOIN in SQL?](https://dev.to/bobbyiliev/what-is-the-difference-between-join-and-inner-join-in-sql-lp7)
 - [How to Add a Default Value to an Existing Column in MySQL](https://dev.to/bobbyiliev/how-to-add-a-default-value-to-an-existing-column-in-mysql-28dk)
 - [The top 10 Linux Commands that Every Data Engineer Should Know](https://dev.to/bobbyiliev/the-top-10-linux-commands-that-every-data-engineer-should-know-mbg)
 - [Automatically display your latest posts on your GitHub Profile README](https://dev.to/bobbyiliev/automatically-display-your-latest-posts-on-your-github-profile-readme-119f)
-- [💡 Free Introduction to Docker eBook](https://dev.to/bobbyiliev/free-introduction-to-docker-ebook-50m8)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
