@@ -30,11 +30,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [Learn Materialize by running streaming SQL on your nginx logs](https://devdojo.com/bobbyiliev/learn-materialize-by-running-streaming-sql-on-your-nginx-logs)
 - [What is the difference between JOIN and INNER JOIN in SQL?](https://devdojo.com/bobbyiliev/what-is-the-difference-between-join-and-inner-join-in-sql)
 - [How to import an SQL file using the command line in MySQL?](https://devdojo.com/bobbyiliev/how-to-import-an-sql-file-using-the-command-line-in-mysql)
 - [How to Add a Default Value to an Existing Column in MySQL](https://devdojo.com/bobbyiliev/how-to-add-a-default-value-to-an-existing-column-in-mysql)
 - [The top 10 Linux Commands that Every Data Engineer Should Know](https://devdojo.com/bobbyiliev/the-top-10-linux-commands-that-every-data-engineer-should-know)
-- [💡 Free Introduction to Docker eBook](https://devdojo.com/bobbyiliev/free-introduction-to-docker-ebook)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
