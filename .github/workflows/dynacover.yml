@@ -15,8 +15,8 @@ jobs:
         env:
           # Uncomment and change accordingly to customize your cover
           DYNA_DEFAULT_TEMPLATE: cover_sponsors.json
-          DYNA_TEMPLATES_DIR: ${{ github.workspace }}/dynacover
-          DYNA_IMAGES_DIR: ${{ github.workspace }}/dynacover
+          # DYNA_TEMPLATES_DIR: ${{ github.workspace }}/dynacover
+          # DYNA_IMAGES_DIR: ${{ github.workspace }}/dynacover
           DYNA_TWITTER_KEY: ${{ secrets.TW_CONSUMER_KEY }}
           DYNA_TWITTER_SECRET: ${{ secrets.TW_CONSUMER_SECRET }}
           DYNA_TWITTER_TOKEN: ${{ secrets.TW_USER_TOKEN }}
