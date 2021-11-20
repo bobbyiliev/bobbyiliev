@@ -13,7 +13,7 @@ jobs:
       - name: 'Update Dynacover image and upload to Twitter'
         uses: erikaheidi/dynacover-actions@v4.2
         env:
-          DYNA_DEFAULT_TEMPLATE: cover_sponsors.json
+          DYNA_DEFAULT_TEMPLATE: /dynacover/app/Resources/templates/cover_sponsors.json
           #DYNA_TEMPLATES_DIR: ${{ github.workspace }}/dynacover_custom
           #DYNA_IMAGES_DIR: ${{ github.workspace }}/dynacover_custom
           DYNA_TWITTER_KEY: ${{ secrets.TW_CONSUMER_KEY }}
