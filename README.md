@@ -9,7 +9,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/bobbyiliev_?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=bobbyiliev_) 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCQWmdHTeAO0UvaNqve9udRw?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/channel/UCQWmdHTeAO0UvaNqve9udRw?sub_confirmation=1)
 
-#### I'm a Linux DevOps Engineer working in Sofia, Bulgaria.
+#### I'm a Linux DevOps Engineer and a Developer Advocate living in Sofia, Bulgaria.
 
 ##### BIO
 
