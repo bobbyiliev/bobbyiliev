@@ -31,11 +31,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [What is the difference between DATETIME and TIMESTAMP data type in MySQL?](https://devdojo.com/bobbyiliev/what-is-the-difference-between-datetime-and-timestamp-data-type-in-mysql)
 - [Building a real-time web application with Materialize and AdonisJS](https://devdojo.com/bobbyiliev/building-a-real-time-web-application-with-materialize-and-adonisjs)
 - [How to Find Duplicate Values in a SQL Table?](https://devdojo.com/bobbyiliev/how-to-find-duplicate-values-in-a-sql-table)
 - [What is the difference between UNION and UNION ALL in SQL?](https://devdojo.com/bobbyiliev/what-is-the-difference-between-union-and-union-all-in-sql)
 - [Learn Materialize by running streaming SQL on your nginx logs](https://devdojo.com/bobbyiliev/learn-materialize-by-running-streaming-sql-on-your-nginx-logs)
-- [What is the difference between JOIN and INNER JOIN in SQL?](https://devdojo.com/bobbyiliev/what-is-the-difference-between-join-and-inner-join-in-sql)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
