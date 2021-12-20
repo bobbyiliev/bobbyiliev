@@ -40,11 +40,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How to build AdonisJS API to store your Raspberry Pi Temperature](https://dev.to/bobbyiliev/how-to-build-adonisjs-api-to-store-your-raspberry-pi-temperature-5c6a)
 - [How to join MySQL and Postgres in a live materialized view](https://dev.to/bobbyiliev/how-to-join-mysql-and-postgres-in-a-live-materialized-view-5864)
 - [Building a real-time web application with Materialize and AdonisJS](https://dev.to/bobbyiliev/building-a-real-time-web-application-with-materialize-and-adonisjs-2ief)
 - [What is the difference between UNION and UNION ALL in SQL?](https://dev.to/bobbyiliev/what-is-the-difference-between-union-and-union-all-in-sql-1e8b)
 - [Automate your Ibis eBook build process with this GitHub Action + Workflow](https://dev.to/bobbyiliev/automate-your-ibis-ebook-build-process-no5)
-- [Learn Materialize by running streaming SQL on your nginx logs](https://dev.to/bobbyiliev/learn-materialize-by-running-streaming-sql-on-your-nginx-logs-3n32)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
