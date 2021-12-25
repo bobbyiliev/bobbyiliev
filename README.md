@@ -20,7 +20,7 @@
 - ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [devdojo], [dev.to] or [linkedin].
 
-##### Books
+##### BOOKS
 
 - 📖&nbsp;&nbsp; **[Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)** opensource eBook
 - 📗&nbsp;&nbsp; **[Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)** opensource eBook
