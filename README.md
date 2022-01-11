@@ -31,11 +31,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to use dbt with Materialize and Redpanda](https://devdojo.com/bobbyiliev/how-to-use-dbt-with-materialize-and-redpanda)
 - [How to build AdonisJS API to store your Raspberry Pi Temperature](https://devdojo.com/bobbyiliev/how-to-build-adonisjs-api-to-store-your-raspberry-pi-temperature)
 - [How to join MySQL and Postgres in a live materialized view](https://devdojo.com/bobbyiliev/how-to-join-mysql-and-postgres-in-a-live-materialized-view)
 - [What is the difference between DATETIME and TIMESTAMP data type in MySQL?](https://devdojo.com/bobbyiliev/what-is-the-difference-between-datetime-and-timestamp-data-type-in-mysql)
 - [Building a real-time web application with Materialize and AdonisJS](https://devdojo.com/bobbyiliev/building-a-real-time-web-application-with-materialize-and-adonisjs)
-- [How to Find Duplicate Values in a SQL Table?](https://devdojo.com/bobbyiliev/how-to-find-duplicate-values-in-a-sql-table)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
