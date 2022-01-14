@@ -40,11 +40,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [Using Materialize and Redpanda to Analyze Raspberry Pi Temperature Data](https://dev.to/bobbyiliev/using-materialize-and-redpanda-to-analyze-raspberry-pi-temperature-data-2lpe)
 - [How to use dbt with Materialize and Redpanda](https://dev.to/bobbyiliev/how-to-use-dbt-with-materialize-and-redpanda-47b3)
 - [How to build AdonisJS API to store your Raspberry Pi Temperature](https://dev.to/bobbyiliev/how-to-build-adonisjs-api-to-store-your-raspberry-pi-temperature-5c6a)
 - [How to join MySQL and Postgres in a live materialized view](https://dev.to/bobbyiliev/how-to-join-mysql-and-postgres-in-a-live-materialized-view-5864)
 - [Building a real-time web application with Materialize and AdonisJS](https://dev.to/bobbyiliev/building-a-real-time-web-application-with-materialize-and-adonisjs-2ief)
-- [What is the difference between UNION and UNION ALL in SQL?](https://dev.to/bobbyiliev/what-is-the-difference-between-union-and-union-all-in-sql-1e8b)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
