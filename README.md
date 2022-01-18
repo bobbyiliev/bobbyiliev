@@ -31,11 +31,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to connect Laravel to Materialize and build a live dashboard?](https://devdojo.com/bobbyiliev/how-to-connect-laravel-to-materialize)
 - [How to create a simple event streaming in Laravel?](https://devdojo.com/bobbyiliev/how-to-create-a-simple-event-streaming-in-laravel)
 - [Using Materialize and Redpanda to Analyze Raspberry Pi Temperature Data](https://devdojo.com/bobbyiliev/using-materialize-and-redpanda-to-analyze-raspberry-pi-temperature-data)
 - [How to use dbt with Materialize and Redpanda](https://devdojo.com/bobbyiliev/how-to-use-dbt-with-materialize-and-redpanda)
 - [How to build AdonisJS API to store your Raspberry Pi Temperature](https://devdojo.com/bobbyiliev/how-to-build-adonisjs-api-to-store-your-raspberry-pi-temperature)
-- [How to join MySQL and Postgres in a live materialized view](https://devdojo.com/bobbyiliev/how-to-join-mysql-and-postgres-in-a-live-materialized-view)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
