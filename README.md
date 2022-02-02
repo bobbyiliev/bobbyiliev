@@ -31,11 +31,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [Decoupled Microservices Architecture with Materialize](https://devdojo.com/bobbyiliev/decoupled-microservices-architecture-with-materialize)
 - [How to connect Laravel to Materialize and build a live dashboard?](https://devdojo.com/bobbyiliev/how-to-connect-laravel-to-materialize)
 - [How to create a simple event streaming in Laravel?](https://devdojo.com/bobbyiliev/how-to-create-a-simple-event-streaming-in-laravel)
 - [Using Materialize and Redpanda to Analyze Raspberry Pi Temperature Data](https://devdojo.com/bobbyiliev/using-materialize-and-redpanda-to-analyze-raspberry-pi-temperature-data)
 - [How to use dbt with Materialize and Redpanda](https://devdojo.com/bobbyiliev/how-to-use-dbt-with-materialize-and-redpanda)
-- [How to build AdonisJS API to store your Raspberry Pi Temperature](https://devdojo.com/bobbyiliev/how-to-build-adonisjs-api-to-store-your-raspberry-pi-temperature)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
