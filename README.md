@@ -31,11 +31,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to use FastAPI with Materialize for real-time data processing](https://devdojo.com/bobbyiliev/how-to-use-fastapi-with-materialize-for-real-time-data-processing)
 - [How to produce records to a topic in Redpanda from a shell script?](https://devdojo.com/bobbyiliev/how-to-produce-records-to-a-topic-in-redpanda-from-a-shell-script)
 - [What is new in Laravel 9](https://devdojo.com/bobbyiliev/what-is-new-in-laravel-9)
 - [10 simple tips for optimizing your Laravel application](https://devdojo.com/bobbyiliev/10-simple-tips-for-optimizing-your-laravel-application)
 - [Decoupled Microservices Architecture with Materialize](https://devdojo.com/bobbyiliev/decoupled-microservices-architecture-with-materialize)
-- [How to connect Laravel to Materialize and build a live dashboard?](https://devdojo.com/bobbyiliev/how-to-connect-laravel-to-materialize)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
