@@ -40,11 +40,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How to use FastAPI with Materialize for real-time data processing](https://dev.to/bobbyiliev/how-to-use-fastapi-with-materialize-for-real-time-data-processing-3fj1)
 - [Decoupled Microservices Architecture with Materialize](https://dev.to/bobbyiliev/decoupled-microservices-architecture-with-materialize-2l67)
 - [How to connect Laravel to Materialize and build a live dashboard?](https://dev.to/bobbyiliev/how-to-connect-laravel-to-materialize-and-build-a-live-dashboard-513)
 - [How to create a simple event streaming in Laravel?](https://dev.to/bobbyiliev/how-to-create-a-simple-event-streaming-in-laravel-4pia)
 - [Using Materialize and Redpanda to Analyze Raspberry Pi Temperature Data](https://dev.to/bobbyiliev/using-materialize-and-redpanda-to-analyze-raspberry-pi-temperature-data-2lpe)
-- [How to use dbt with Materialize and Redpanda](https://dev.to/bobbyiliev/how-to-use-dbt-with-materialize-and-redpanda-47b3)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
