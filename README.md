@@ -40,11 +40,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [What is the difference between DATETIME and TIMESTAMP data type in MySQL?](https://dev.to/bobbyiliev/what-is-the-difference-between-datetime-and-timestamp-data-type-in-mysql-1f5b)
 - [How to use server-sent events &lpar;SSE&rpar; with FastAPI?](https://dev.to/bobbyiliev/how-to-use-server-sent-events-sse-with-fastapi-52fo)
 - [How to use FastAPI with Materialize for real-time data processing](https://dev.to/bobbyiliev/how-to-use-fastapi-with-materialize-for-real-time-data-processing-3fj1)
 - [Decoupled Microservices Architecture with Materialize](https://dev.to/bobbyiliev/decoupled-microservices-architecture-with-materialize-2l67)
 - [How to connect Laravel to Materialize and build a live dashboard?](https://dev.to/bobbyiliev/how-to-connect-laravel-to-materialize-and-build-a-live-dashboard-513)
-- [How to create a simple event streaming in Laravel?](https://dev.to/bobbyiliev/how-to-create-a-simple-event-streaming-in-laravel-4pia)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
