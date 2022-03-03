@@ -31,11 +31,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to use Laravel WebSockets 🛰](https://devdojo.com/bobbyiliev/how-to-use-laravel-websockets)
 - [How to use server-sent events &lpar;SSE&rpar; with FastAPI?](https://devdojo.com/bobbyiliev/how-to-use-server-sent-events-sse-with-fastapi)
 - [How to use FastAPI with Materialize for real-time data processing](https://devdojo.com/bobbyiliev/how-to-use-fastapi-with-materialize-for-real-time-data-processing)
 - [How to produce records to a topic in Redpanda from a shell script?](https://devdojo.com/bobbyiliev/how-to-produce-records-to-a-topic-in-redpanda-from-a-shell-script)
 - [What is new in Laravel 9](https://devdojo.com/bobbyiliev/what-is-new-in-laravel-9)
-- [10 simple tips for optimizing your Laravel application](https://devdojo.com/bobbyiliev/10-simple-tips-for-optimizing-your-laravel-application)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
