@@ -31,11 +31,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to manage your Materialize migrations with Laravel Zero?](https://devdojo.com/bobbyiliev/how-to-manage-your-materialize-migrations-with-laravel-zero)
 - [Blue-green deployments with Materialize](https://devdojo.com/bobbyiliev/blue-green-deployments-with-materialize)
 - [How to use &#39;IF&#39; in &#39;SELECT&#39; SQL statements?](https://devdojo.com/bobbyiliev/how-to-use-if-in-select-sql-statements)
 - [How to use Laravel WebSockets 🛰](https://devdojo.com/bobbyiliev/how-to-use-laravel-websockets)
 - [How to use server-sent events &lpar;SSE&rpar; with FastAPI?](https://devdojo.com/bobbyiliev/how-to-use-server-sent-events-sse-with-fastapi)
-- [How to use FastAPI with Materialize for real-time data processing](https://devdojo.com/bobbyiliev/how-to-use-fastapi-with-materialize-for-real-time-data-processing)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
