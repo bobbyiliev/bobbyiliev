@@ -40,11 +40,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [Using Materialize and Airbyte with MySQL and Redpanda/Kafka](https://dev.to/bobbyiliev/using-materialize-and-airbyte-with-mysql-and-redpandakafka-2jhe)
 - [How to manage your Materialize migrations with Laravel Zero?](https://dev.to/bobbyiliev/how-to-manage-your-materialize-migrations-with-laravel-zero-511o)
 - [Blue-green deployments with Materialize](https://dev.to/bobbyiliev/blue-green-deployments-with-materialize-4ab0)
 - [What is the difference between DATETIME and TIMESTAMP data type in MySQL?](https://dev.to/bobbyiliev/what-is-the-difference-between-datetime-and-timestamp-data-type-in-mysql-1f5b)
 - [How to use server-sent events &lpar;SSE&rpar; with FastAPI?](https://dev.to/bobbyiliev/how-to-use-server-sent-events-sse-with-fastapi-52fo)
-- [How to use FastAPI with Materialize for real-time data processing](https://dev.to/bobbyiliev/how-to-use-fastapi-with-materialize-for-real-time-data-processing-3fj1)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
