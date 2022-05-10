@@ -40,11 +40,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [Scaling Laravel with Serverless Redis](https://dev.to/bobbyiliev/scaling-laravel-with-serverless-redis-1561)
 - [Serverless Node.js URL Shortener App powered by Upstash Kafka and Materialize](https://dev.to/bobbyiliev/serverless-nodejs-url-shortener-app-powered-by-upstash-kafka-and-materialize-3mae)
 - [Using Materialize and Airbyte with MySQL and Redpanda/Kafka](https://dev.to/bobbyiliev/using-materialize-and-airbyte-with-mysql-and-redpandakafka-2jhe)
 - [How to manage your Materialize migrations with Laravel Zero?](https://dev.to/bobbyiliev/how-to-manage-your-materialize-migrations-with-laravel-zero-511o)
 - [Blue-green deployments with Materialize](https://dev.to/bobbyiliev/blue-green-deployments-with-materialize-4ab0)
-- [What is the difference between DATETIME and TIMESTAMP data type in MySQL?](https://dev.to/bobbyiliev/what-is-the-difference-between-datetime-and-timestamp-data-type-in-mysql-1f5b)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
