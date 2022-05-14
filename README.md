@@ -31,11 +31,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [Using Deno and Materialize to send notifications in real-time](https://devdojo.com/bobbyiliev/using-deno-and-materialize-to-send-notifications-in-real-time)
 - [Scaling Laravel with Serverless Redis](https://devdojo.com/bobbyiliev/scaling-laravel-with-serverless-redis)
 - [Using LogicLoop and Materialize  with dbt and Redpanda/Kafka](https://devdojo.com/bobbyiliev/using-logicloop-and-materialize-with-dbt-and-redpandakafka)
 - [Building an Order Tracking Demo App using AdonisJS Materialize and Redpanda](https://devdojo.com/bobbyiliev/building-an-order-tracking-demo-app-using-adonisjs-materialize-and-redpanda)
 - [Serverless Node.js URL Shortener App powered by Upstash Kafka and Materialize](https://devdojo.com/bobbyiliev/serverless-nodejs-url-shortener-app-powered-by-upstash-kafka-and-materialize)
-- [Using Materialize and Airbyte with MySQL and Redpanda/Kafka](https://devdojo.com/bobbyiliev/using-materialize-and-airbyte-with-mysql-and-redpandakafka)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
