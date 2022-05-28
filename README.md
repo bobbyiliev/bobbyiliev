@@ -31,11 +31,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to use Materialize with DigitalOcean Serverless Functions](https://devdojo.com/bobbyiliev/how-to-use-materialize-with-digitalocean-serverless-functions)
+- [Python Script to Copy The Content of a Materialized View to S3](https://devdojo.com/bobbyiliev/python-script-to-copy-the-content-of-a-materialized-view-to-s3)
 - [Using Deno and Materialize to send notifications in real-time](https://devdojo.com/bobbyiliev/using-deno-and-materialize-to-send-notifications-in-real-time)
 - [Scaling Laravel with Serverless Redis](https://devdojo.com/bobbyiliev/scaling-laravel-with-serverless-redis)
 - [Using LogicLoop and Materialize  with dbt and Redpanda/Kafka](https://devdojo.com/bobbyiliev/using-logicloop-and-materialize-with-dbt-and-redpandakafka)
-- [Building an Order Tracking Demo App using AdonisJS Materialize and Redpanda](https://devdojo.com/bobbyiliev/building-an-order-tracking-demo-app-using-adonisjs-materialize-and-redpanda)
-- [Serverless Node.js URL Shortener App powered by Upstash Kafka and Materialize](https://devdojo.com/bobbyiliev/serverless-nodejs-url-shortener-app-powered-by-upstash-kafka-and-materialize)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
