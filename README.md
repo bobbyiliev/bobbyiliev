@@ -31,11 +31,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to find the version of an installed npm package?](https://devdojo.com/bobbyiliev/how-to-find-the-version-of-an-installed-npm-package)
 - [How to pass command line arguments to a Node.js app?](https://devdojo.com/bobbyiliev/how-to-pass-command-line-arguments-to-a-nodejs-app)
 - [Quick introduction to WebSockets with Node.js](https://devdojo.com/bobbyiliev/quick-introduction-to-websockets-with-nodejs)
 - [Building a live chart with Deno, WebSockets, Chart.js and Materialize](https://devdojo.com/bobbyiliev/building-a-live-chart-with-deno-websockets-chartjs-and-materialize)
 - [How to use Materialize with DigitalOcean Serverless Functions](https://devdojo.com/bobbyiliev/how-to-use-materialize-with-digitalocean-serverless-functions)
-- [Python Script to Copy The Content of a Materialized View to S3](https://devdojo.com/bobbyiliev/python-script-to-copy-the-content-of-a-materialized-view-to-s3)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
