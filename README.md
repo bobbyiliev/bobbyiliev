@@ -40,11 +40,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [9 Open Source Projects to Contribute to - Hacktoberfest 2022](https://dev.to/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2022-1fae)
 - [Quick introduction to WebSockets with Node.js](https://dev.to/bobbyiliev/quick-introduction-to-websockets-with-nodejs-2klh)
 - [Building a live chart with Deno, WebSockets, Chart.js and Materialize](https://dev.to/bobbyiliev/building-a-live-chart-with-deno-websockets-chartjs-and-materialize-3cd7)
 - [Using LogicLoop and Materialize with dbt and Redpanda/Kafka](https://dev.to/bobbyiliev/using-logicloop-and-materialize-with-dbt-and-redpandakafka-2mmj)
 - [Scaling Laravel with Serverless Redis](https://dev.to/bobbyiliev/scaling-laravel-with-serverless-redis-1561)
-- [Serverless Node.js URL Shortener App powered by Upstash Kafka and Materialize](https://dev.to/bobbyiliev/serverless-nodejs-url-shortener-app-powered-by-upstash-kafka-and-materialize-3mae)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
