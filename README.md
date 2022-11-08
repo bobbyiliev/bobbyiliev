@@ -31,11 +31,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to show all tables in PostgreSQL?](https://devdojo.com/bobbyiliev/how-to-show-all-tables-in-postgresql)
 - [How to flatten JSON array in SQL using jsonb_array_elements?](https://devdojo.com/bobbyiliev/how-to-flatten-json-array-in-sql-using-jsonb-array-elements)
 - [9 Open Source Projects to Contribute to - Hacktoberfest 2022](https://devdojo.com/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2022)
 - [How to find the version of an installed npm package?](https://devdojo.com/bobbyiliev/how-to-find-the-version-of-an-installed-npm-package)
 - [How to pass command line arguments to a Node.js app?](https://devdojo.com/bobbyiliev/how-to-pass-command-line-arguments-to-a-nodejs-app)
-- [Quick introduction to WebSockets with Node.js](https://devdojo.com/bobbyiliev/quick-introduction-to-websockets-with-nodejs)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
