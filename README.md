@@ -31,11 +31,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [How to increase the size of the file upload in Laravel Voyager Media Manager?](https://devdojo.com/bobbyiliev/how-to-increase-the-size-of-the-file-upload-in-laravel-voyager-media-manager)
 - [How to find a process locking port 3000 on Mac?](https://devdojo.com/bobbyiliev/how-to-find-a-process-locking-port-3000-on-mac)
 - [How to setup Laravel Wave on Windows using Laragon?](https://devdojo.com/bobbyiliev/how-to-setup-laravel-wave-on-windows-using-laragon)
 - [How to show all tables in PostgreSQL?](https://devdojo.com/bobbyiliev/how-to-show-all-tables-in-postgresql)
 - [How to flatten JSON array in SQL using jsonb_array_elements?](https://devdojo.com/bobbyiliev/how-to-flatten-json-array-in-sql-using-jsonb-array-elements)
-- [9 Open Source Projects to Contribute to - Hacktoberfest 2022](https://devdojo.com/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2022)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
