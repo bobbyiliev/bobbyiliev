@@ -31,11 +31,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [Reset Local Repository Branch to be Just Like Remote Repository HEAD: A Step-by-Step Guide](https://devdojo.com/bobbyiliev/reset-local-repository-branch-to-be-just-like-remote-repository-head-a-step-by-step-guide)
 - [Introduction to Rust](https://devdojo.com/bobbyiliev/introduction-to-rust)
 - [How to increase the size of the file upload in Laravel Voyager Media Manager?](https://devdojo.com/bobbyiliev/how-to-increase-the-size-of-the-file-upload-in-laravel-voyager-media-manager)
 - [How to find a process locking port 3000 on Mac?](https://devdojo.com/bobbyiliev/how-to-find-a-process-locking-port-3000-on-mac)
 - [How to setup Laravel Wave on Windows using Laragon?](https://devdojo.com/bobbyiliev/how-to-setup-laravel-wave-on-windows-using-laragon)
-- [How to show all tables in PostgreSQL?](https://devdojo.com/bobbyiliev/how-to-show-all-tables-in-postgresql)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
