@@ -31,11 +31,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO:START -->
+- [8 Awesome VS Code Extensions for JavaScript Developers](https://devdojo.com/bobbyiliev/8-awesome-vs-code-extensions-for-javascript-developers)
+- [Simulating Streaming Data for Fraud Detection with Datagen CLI](https://devdojo.com/bobbyiliev/simulating-streaming-data-for-fraud-detection-with-datagen-cli)
 - [Reset Local Repository Branch to be Just Like Remote Repository HEAD: A Step-by-Step Guide](https://devdojo.com/bobbyiliev/reset-local-repository-branch-to-be-just-like-remote-repository-head-a-step-by-step-guide)
 - [Introduction to Rust](https://devdojo.com/bobbyiliev/introduction-to-rust)
 - [How to increase the size of the file upload in Laravel Voyager Media Manager?](https://devdojo.com/bobbyiliev/how-to-increase-the-size-of-the-file-upload-in-laravel-voyager-media-manager)
-- [How to find a process locking port 3000 on Mac?](https://devdojo.com/bobbyiliev/how-to-find-a-process-locking-port-3000-on-mac)
-- [How to setup Laravel Wave on Windows using Laragon?](https://devdojo.com/bobbyiliev/how-to-setup-laravel-wave-on-windows-using-laragon)
 <!-- DEVDOJO:END -->
 
 ### RECENT DEV.TO POST
