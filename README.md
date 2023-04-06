@@ -40,11 +40,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [8 Awesome VS Code Extensions for JavaScript Developers](https://dev.to/bobbyiliev/8-awesome-vs-code-extensions-for-javascript-developers-4dh1)
 - [Reset Local Repository Branch to be Just Like Remote Repository HEAD: A Step-by-Step Guide](https://dev.to/bobbyiliev/reset-local-repository-branch-to-be-just-like-remote-repository-head-a-step-by-step-guide-1n2k)
 - [Simulating Streaming Data for Fraud Detection with Datagen CLI](https://dev.to/bobbyiliev/simulating-streaming-data-for-fraud-detection-with-datagen-cli-4aa8)
 - [10 ideas for SaaS startups in 2023 - by ChatGPT](https://dev.to/bobbyiliev/10-ideas-for-saas-startups-in-2023-by-chatgpt-5eg2)
 - [How to pass command line arguments to a Node.js app?](https://dev.to/bobbyiliev/how-to-pass-command-line-arguments-to-a-nodejs-app-5294)
-- [How to find the version of an installed npm package?](https://dev.to/bobbyiliev/how-to-find-the-version-of-an-installed-npm-package-3hfh)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
