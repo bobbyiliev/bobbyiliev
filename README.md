@@ -40,11 +40,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How to use DigitalOcean Spaces with Laravel Voyager?](https://dev.to/bobbyiliev/how-to-use-digitalocean-spaces-with-laravel-voyager-4e35)
 - [Introduction to Terraform: From Zero to Hero eBook](https://dev.to/bobbyiliev/introduction-to-terraform-from-zero-to-hero-ebook-2gea)
 - [8 Awesome VS Code Extensions for JavaScript Developers](https://dev.to/bobbyiliev/8-awesome-vs-code-extensions-for-javascript-developers-4dh1)
 - [Reset Local Repository Branch to be Just Like Remote Repository HEAD: A Step-by-Step Guide](https://dev.to/bobbyiliev/reset-local-repository-branch-to-be-just-like-remote-repository-head-a-step-by-step-guide-1n2k)
 - [Simulating Streaming Data for Fraud Detection with Datagen CLI](https://dev.to/bobbyiliev/simulating-streaming-data-for-fraud-detection-with-datagen-cli-4aa8)
-- [10 ideas for SaaS startups in 2023 - by ChatGPT](https://dev.to/bobbyiliev/10-ideas-for-saas-startups-in-2023-by-chatgpt-5eg2)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
