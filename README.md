@@ -40,11 +40,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Sticky NavBar using Tailwind CSS](https://dev.to/bobbyiliev/how-to-create-a-sticky-navbar-using-tailwind-css-1587)
 - [7 Best VS Code Extensions for Python Developers](https://dev.to/bobbyiliev/7-best-vs-code-extensions-for-python-developers-4e9d)
 - [How to use DigitalOcean Spaces with Laravel Voyager?](https://dev.to/bobbyiliev/how-to-use-digitalocean-spaces-with-laravel-voyager-4e35)
 - [Introduction to Terraform: From Zero to Hero eBook](https://dev.to/bobbyiliev/introduction-to-terraform-from-zero-to-hero-ebook-2gea)
 - [8 Awesome VS Code Extensions for JavaScript Developers](https://dev.to/bobbyiliev/8-awesome-vs-code-extensions-for-javascript-developers-4dh1)
-- [Reset Local Repository Branch to be Just Like Remote Repository HEAD: A Step-by-Step Guide](https://dev.to/bobbyiliev/reset-local-repository-branch-to-be-just-like-remote-repository-head-a-step-by-step-guide-1n2k)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
