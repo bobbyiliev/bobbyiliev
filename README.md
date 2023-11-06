@@ -8,7 +8,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQWmdHTeAO0UvaNqve9udRw?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCQWmdHTeAO0UvaNqve9udRw?sub_confirmation=1) 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCQWmdHTeAO0UvaNqve9udRw?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/channel/UCQWmdHTeAO0UvaNqve9udRw?sub_confirmation=1)
 
-#### I'm a Linux DevOps Engineer living in Sofia, Bulgaria. Currently working as a Developer Advocate at [Materialize](https://materialize.com?utm_source=bobbyiliev).
+#### I'm a Linux DevOps Engineer living in Sofia, Bulgaria. Currently working as a Senior DevEx Engineer at [Materialize](https://materialize.com?utm_source=bobbyiliev).
 
 ##### BIO
 
