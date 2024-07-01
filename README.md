@@ -39,11 +39,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How to Vertically Align Content with Tailwind CSS Across a Full-Screen Div](https://dev.to/bobbyiliev/how-to-vertically-align-content-with-tailwind-css-across-a-full-screen-div-4265)
 - [🚀 My Cloudflare AI Challenge Submission: Story and Image Generator](https://dev.to/bobbyiliev/my-cloudflare-ai-challenge-submission-story-and-image-generator-4fc3)
 - [Introduction to Linux eBook: A Comprehensive Guide for Beginners](https://dev.to/bobbyiliev/introduction-to-linux-ebook-a-comprehensive-guide-for-beginners-39hh)
 - [How to Create a Sticky NavBar using Tailwind CSS](https://dev.to/bobbyiliev/how-to-create-a-sticky-navbar-using-tailwind-css-1587)
 - [7 Best VS Code Extensions for Python Developers](https://dev.to/bobbyiliev/7-best-vs-code-extensions-for-python-developers-4e9d)
-- [How to use DigitalOcean Spaces with Laravel Voyager?](https://dev.to/bobbyiliev/how-to-use-digitalocean-spaces-with-laravel-voyager-4e35)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
