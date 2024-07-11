@@ -39,11 +39,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How to Remove Arrow on Input type Number with Tailwind CSS](https://dev.to/bobbyiliev/how-to-remove-arrow-on-input-type-number-with-tailwind-css-5b0f)
 - [How to Make Parent Div Activate Styling of Child Div for Hover and Active States](https://dev.to/bobbyiliev/how-to-make-parent-div-activate-styling-of-child-div-for-hover-and-active-states-3e26)
 - [How to Access Direct Children of a Div in Tailwind CSS v3](https://dev.to/bobbyiliev/how-to-access-direct-children-of-a-div-in-tailwind-css-v3-5714)
 - [How to Get the Directory Where a Bash Script is Located](https://dev.to/bobbyiliev/how-to-get-the-directory-where-a-bash-script-is-located-em3)
 - [How to Vertically Align Content with Tailwind CSS Across a Full-Screen Div](https://dev.to/bobbyiliev/how-to-vertically-align-content-with-tailwind-css-across-a-full-screen-div-4265)
-- [🚀 My Cloudflare AI Challenge Submission: Story and Image Generator](https://dev.to/bobbyiliev/my-cloudflare-ai-challenge-submission-story-and-image-generator-4fc3)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
