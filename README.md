@@ -13,19 +13,22 @@
 ##### BIO
 
 - ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.html`, `.css`, `.blade.php`, `.sql`, `.go`
+- 🐳&nbsp;&nbsp; Docker Captain 
 - 🌍&nbsp;&nbsp; I'm mostly active within the **DigitalOcean Community and DevDojo**
 - 🌱&nbsp;&nbsp; Learning all about **Open Source**
-- 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **laravel**, **development**, **devops**
+- 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **laravel**, **development**, **devops**, **docker**, **terraform**
 - ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [devdojo], [dev.to] or [linkedin].
 
-##### BOOKS
+##### MY BOOKS
 
 - 📖&nbsp;&nbsp; **[Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)** opensource eBook
 - 📗&nbsp;&nbsp; **[Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)** opensource eBook
 - 📕&nbsp;&nbsp; **[Introduction to SQL](https://github.com/bobbyiliev/introduction-to-sql)** opensource eBook
 - 🐳&nbsp;&nbsp; **[Introduction to Docker](https://github.com/bobbyiliev/introduction-to-docker-ebook)** opensource eBook
 - 💡&nbsp;&nbsp; **[Laravel tips and tricks](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook)** opensource eBook
+- 🌍&nbsp;&nbsp; **[Introduction to Terraform](https://leanpub.com/introduction-to-terraform)** eBook
+- 🐧&nbsp;&nbsp; **[Introduction to Linux](https://leanpub.com/introduction-to-linux)** eBook
 
 ### RECENT DEVDOJO POST
 
