@@ -42,11 +42,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [Lockdown Your Containers: 11 Docker Security Tips](https://dev.to/bobbyiliev/lockdown-your-containers-11-docker-security-tips-239l)
 - [9 Open Source Projects to Contribute to - Hacktoberfest 2024](https://dev.to/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2024-42bm)
 - [How to Remove Arrow on Input type Number with Tailwind CSS](https://dev.to/bobbyiliev/how-to-remove-arrow-on-input-type-number-with-tailwind-css-5b0f)
 - [How to Make Parent Div Activate Styling of Child Div for Hover and Active States](https://dev.to/bobbyiliev/how-to-make-parent-div-activate-styling-of-child-div-for-hover-and-active-states-3e26)
 - [How to Access Direct Children of a Div in Tailwind CSS v3](https://dev.to/bobbyiliev/how-to-access-direct-children-of-a-div-in-tailwind-css-v3-5714)
-- [How to Get the Directory Where a Bash Script is Located](https://dev.to/bobbyiliev/how-to-get-the-directory-where-a-bash-script-is-located-em3)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
