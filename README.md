@@ -42,11 +42,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How To Use Pan for Easy Analytics in Your Laravel App](https://dev.to/bobbyiliev/how-to-use-pan-for-easy-analytics-in-your-laravel-app-omc)
 - [My Hacktoberfest 2024 Experience as a Maintainer 🙌](https://dev.to/bobbyiliev/my-hacktoberfest-2024-experience-as-a-maintainer-2m14)
 - [Lockdown Your Containers: 11 Docker Security Tips](https://dev.to/bobbyiliev/lockdown-your-containers-11-docker-security-tips-239l)
 - [9 Open Source Projects to Contribute to - Hacktoberfest 2024](https://dev.to/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2024-42bm)
 - [How to Remove Arrow on Input type Number with Tailwind CSS](https://dev.to/bobbyiliev/how-to-remove-arrow-on-input-type-number-with-tailwind-css-5b0f)
-- [How to Make Parent Div Activate Styling of Child Div for Hover and Active States](https://dev.to/bobbyiliev/how-to-make-parent-div-activate-styling-of-child-div-for-hover-and-active-states-3e26)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
