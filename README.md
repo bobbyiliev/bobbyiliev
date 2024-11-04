@@ -12,7 +12,7 @@
 
 ##### BIO
 
-- ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.html`, `.css`, `.blade.php`, `.sql`, `.go`
+- ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.blade.php`, `.sql`, `.go`, `.py`
 - 🐳&nbsp;&nbsp; Docker Captain 
 - 🌍&nbsp;&nbsp; I'm mostly active within the **DigitalOcean Community and DevDojo**
 - 🌱&nbsp;&nbsp; Learning all about **Open Source**
