@@ -42,11 +42,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [5 Best Docker Books for Beginners](https://dev.to/bobbyiliev/5-best-docker-books-for-beginners-4k38)
 - [Introducing Wave V3 – The Ultimate Laravel SaaS Starter Kit!](https://dev.to/bobbyiliev/introducing-wave-v3-the-ultimate-laravel-saas-starter-kit-2egb)
 - [How To Use Pan for Easy Analytics in Your Laravel App](https://dev.to/bobbyiliev/how-to-use-pan-for-easy-analytics-in-your-laravel-app-omc)
 - [My Hacktoberfest 2024 Experience as a Maintainer 🙌](https://dev.to/bobbyiliev/my-hacktoberfest-2024-experience-as-a-maintainer-2m14)
 - [Lockdown Your Containers: 11 Docker Security Tips](https://dev.to/bobbyiliev/lockdown-your-containers-11-docker-security-tips-239l)
-- [9 Open Source Projects to Contribute to - Hacktoberfest 2024](https://dev.to/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2024-42bm)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
