@@ -42,11 +42,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [7 Best Terraform Books for Beginners](https://dev.to/bobbyiliev/7-best-terraform-books-for-beginners-32g7)
 - [9 Best Linux Books for Beginners](https://dev.to/bobbyiliev/9-best-linux-books-for-beginners-11gp)
 - [5 Best Docker Books for Beginners](https://dev.to/bobbyiliev/5-best-docker-books-for-beginners-4k38)
 - [Introducing Wave V3 – The Ultimate Laravel SaaS Starter Kit!](https://dev.to/bobbyiliev/introducing-wave-v3-the-ultimate-laravel-saas-starter-kit-2egb)
 - [How To Use Pan for Easy Analytics in Your Laravel App](https://dev.to/bobbyiliev/how-to-use-pan-for-easy-analytics-in-your-laravel-app-omc)
-- [My Hacktoberfest 2024 Experience as a Maintainer 🙌](https://dev.to/bobbyiliev/my-hacktoberfest-2024-experience-as-a-maintainer-2m14)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
