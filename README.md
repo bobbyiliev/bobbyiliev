@@ -42,11 +42,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Windows Docker Images with GitHub Actions](https://dev.to/bobbyiliev/how-to-build-windows-docker-images-with-github-actions-2i9l)
 - [5 Terraform Best Practices I Wish I Knew When I Started](https://dev.to/bobbyiliev/5-terraform-best-practices-i-wish-i-knew-when-i-started-2dc)
 - [7 Best Terraform Books for Beginners](https://dev.to/bobbyiliev/7-best-terraform-books-for-beginners-32g7)
 - [9 Best Linux Books for Beginners](https://dev.to/bobbyiliev/9-best-linux-books-for-beginners-11gp)
 - [5 Best Docker Books for Beginners](https://dev.to/bobbyiliev/5-best-docker-books-for-beginners-4k38)
-- [Introducing Wave V3 – The Ultimate Laravel SaaS Starter Kit!](https://dev.to/bobbyiliev/introducing-wave-v3-the-ultimate-laravel-saas-starter-kit-2egb)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
