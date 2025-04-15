@@ -42,11 +42,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [How to Write Unit Tests for Bash Scripts &lpar;The Simple Way&rpar;](https://dev.to/bobbyiliev/how-to-write-unit-tests-for-bash-scripts-the-simple-way-51di)
 - [7 Best SQL Books for Beginners](https://dev.to/bobbyiliev/7-best-sql-books-for-beginners-54gi)
 - [Timeless Developer Skills: Building Solid Foundation for Long-Term Success](https://dev.to/bobbyiliev/timeless-developer-skills-building-solid-foundation-for-long-term-success-16m5)
 - [How to Build Windows Docker Images with GitHub Actions](https://dev.to/bobbyiliev/how-to-build-windows-docker-images-with-github-actions-2i9l)
 - [5 Terraform Best Practices I Wish I Knew When I Started](https://dev.to/bobbyiliev/5-terraform-best-practices-i-wish-i-knew-when-i-started-2dc)
-- [7 Best Terraform Books for Beginners](https://dev.to/bobbyiliev/7-best-terraform-books-for-beginners-32g7)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
