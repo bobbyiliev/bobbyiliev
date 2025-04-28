@@ -30,16 +30,6 @@
 - 🌍&nbsp;&nbsp; **[Introduction to Terraform](https://leanpub.com/introduction-to-terraform)** eBook
 - 🐧&nbsp;&nbsp; **[Introduction to Linux](https://leanpub.com/introduction-to-linux)** eBook
 
-### RECENT DEVDOJO POST
-
-<!-- DEVDOJO:START -->
-- [7 Best VS Code Extensions for Python Developers](https://devdojo.com/bobbyiliev/7-best-vs-code-extensions-for-python-developers)
-- [Introduction to Structs and Implementations in Rust](https://devdojo.com/bobbyiliev/introduction-to-structs-and-implementations-in-rust)
-- [8 Awesome VS Code Extensions for JavaScript Developers](https://devdojo.com/bobbyiliev/8-awesome-vs-code-extensions-for-javascript-developers)
-- [Simulating Streaming Data for Fraud Detection with Datagen CLI](https://devdojo.com/bobbyiliev/simulating-streaming-data-for-fraud-detection-with-datagen-cli)
-- [Reset Local Repository Branch to be Just Like Remote Repository HEAD: A Step-by-Step Guide](https://devdojo.com/bobbyiliev/reset-local-repository-branch-to-be-just-like-remote-repository-head-a-step-by-step-guide)
-<!-- DEVDOJO:END -->
-
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
 - [How to Write Unit Tests for Bash Scripts &lpar;The Simple Way&rpar;](https://dev.to/bobbyiliev/how-to-write-unit-tests-for-bash-scripts-the-simple-way-51di)
