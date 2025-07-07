@@ -29,13 +29,8 @@
 - 🌍&nbsp;&nbsp; **[Introduction to Terraform](https://leanpub.com/introduction-to-terraform)** eBook
 - 🐧&nbsp;&nbsp; **[Introduction to Linux](https://leanpub.com/introduction-to-linux)** eBook
 
-### RECENT DEV.TO POST
+<!-- ### RECENT DEV.TO POST -->
 <!-- BLOG-POST-LIST:START -->
-- [Building Intelligent Search with AI Embeddings, Neon, and pgvector](https://dev.to/neon-postgres/building-intelligent-search-with-ai-embeddings-neon-and-pgvector-3hep)
-- [How to Write Unit Tests for Bash Scripts &lpar;The Simple Way&rpar;](https://dev.to/bobbyiliev/how-to-write-unit-tests-for-bash-scripts-the-simple-way-51di)
-- [7 Best SQL Books for Beginners](https://dev.to/bobbyiliev/7-best-sql-books-for-beginners-54gi)
-- [Timeless Developer Skills: Building Solid Foundation for Long-Term Success](https://dev.to/bobbyiliev/timeless-developer-skills-building-solid-foundation-for-long-term-success-16m5)
-- [How to Build Windows Docker Images with GitHub Actions](https://dev.to/bobbyiliev/how-to-build-windows-docker-images-with-github-actions-2i9l)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
