@@ -12,7 +12,7 @@
 
 ##### BIO
 
-- ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.blade.php`, `.sql`, `.go`, `.py`
+- ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.blade.php`, `.sql`, `.go`, `.py`, `.tf`
 - 🐳&nbsp;&nbsp; Docker Captain 
 - 🌱&nbsp;&nbsp; Learning all about **Open Source**
 - 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **laravel**, **development**, **devops**, **docker**, **terraform**
