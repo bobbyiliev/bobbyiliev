@@ -65,7 +65,7 @@
 
 [email]: mailto:bobby@bobbyiliev.com
 [twitter]: https://twitter.com/bobbyiliev_
-[devdojo]: https://devdojo.com/bobbyiliev
+[devdojo]: https://devdojo.com/developer/bobbyiliev
 [dev.to]: https://dev.to/bobbyiliev
 [linkedin]: https://www.linkedin.com/in/bobby-iliev
 [youtube]: https://youtube.com/channel/UCQWmdHTeAO0UvaNqve9udRw/
