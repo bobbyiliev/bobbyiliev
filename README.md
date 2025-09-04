@@ -44,9 +44,6 @@
 <a href="https://dev.to/bobbyiliev"> 
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bobby Iliev dev to profile" width="24px"/></a>
 &emsp;
-<a href= "https://instagram.com/bobbyiliev_">
-<img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" alt="Bobby Iliev instagram profile" width="28px"/></a>
-&emsp;
 <a href="https://www.paypal.com/paypalme/bobbyiliev">
 <img src="https://img.icons8.com/ios-glyphs/256/000000/paypal.png" alt="Bobby Iliev pay pal me profile" width="28px"/></a> 
 &emsp;
