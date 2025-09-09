@@ -14,7 +14,7 @@
 
 - ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.blade.php`, `.sql`, `.go`, `.py`, `.tf`
 - 🐳&nbsp;&nbsp; Docker Captain 
-- 🌱&nbsp;&nbsp; Learning all about **Open Source**
+- 🌱&nbsp;&nbsp; Love **Open Source**
 - 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **laravel**, **development**, **devops**, **docker**, **terraform**, **kubernetes**
 - ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter] or [devdojo].
