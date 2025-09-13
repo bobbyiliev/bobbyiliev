@@ -51,13 +51,13 @@
 <img src="https://img.icons8.com/material/256/000000/globe--v1.png" alt="Bobby Iliev personal website" width="28px"/></a>
 &emsp;
 <a href="https://linkedin.com/in/bobby-iliev">
-<img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" alt="Bobby Iliev linked in profile" width="26px"/></a>
+<img src="https://img.icons8.com/ios-filled/256/000000/linkedin.png" alt="Bobby Iliev linked in profile" width="26px"/></a>
 &emsp;
 <a href="https://twitter.com/bobbyiliev_">
-<img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="Bobby Iliev twitter profile" width="26px"/></a>
+<img src="https://img.icons8.com/ios-filled/256/000000/twitter.png" alt="Bobby Iliev twitter profile" width="26px"/></a>
 &emsp;
 <a href="https://youtube.com/@bobbyiliev_">
-<img src="https://img.icons8.com/ios-filled/256/000000/youtube.svg" alt="Bobby Iliev YouTube profile" width="26px"/></a>
+<img src="https://img.icons8.com/ios-filled/256/000000/youtube.png" alt="Bobby Iliev YouTube profile" width="26px"/></a>
 </p>
 
 [email]: mailto:bobby@bobbyiliev.com
