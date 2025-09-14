@@ -16,7 +16,7 @@
 - 🐳&nbsp;&nbsp; Docker Captain 
 - 🌱&nbsp;&nbsp; Love **Open Source**
 - 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **laravel**, **development**, **devops**, **docker**, **terraform**, **kubernetes**
-- ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
+- ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter] or [devdojo].
 
 ##### MY BOOKS
