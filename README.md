@@ -9,8 +9,6 @@
 ---
 
 [![Github](https://img.shields.io/github/followers/bobbyiliev?label=Follow\&style=social)](https://github.com/bobbyiliev)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQWmdHTeAO0UvaNqve9udRw?label=Subscribers\&style=social)](https://www.youtube.com/@bobbyiliev_)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCQWmdHTeAO0UvaNqve9udRw?label=YouTube%20views\&style=social)](https://www.youtube.com/@bobbyiliev_)
 
 ### 👋 About me
 
