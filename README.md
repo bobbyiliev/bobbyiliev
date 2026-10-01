@@ -8,10 +8,6 @@
 
 ---
 
-[![Github](https://img.shields.io/github/followers/bobbyiliev?label=Follow\&style=social)](https://github.com/bobbyiliev)
-
-### 👋 About me
-
 I'm a Senior DevEx Engineer at [Materialize](https://materialize.com?utm_source=bobbyiliev) with 15+ years of experience across software development, Linux, infrastructure, cloud, and developer tooling.
 
 * ⚙️ I work with **Go, Rust, Python, TypeScript, JavaScript, PHP, Bash, SQL & Terraform**
